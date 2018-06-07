@@ -22,7 +22,5 @@ class Owner
     @@all.clear
   end
   
-  def species(specie)
-    
-  end
+
 end
