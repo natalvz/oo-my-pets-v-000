@@ -28,5 +28,6 @@ class Owner
   end
   
   def buy_fish(fish)
-    new_fish =  
+    new_fish = Fish.new(name)
+    
 end
