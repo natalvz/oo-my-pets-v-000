@@ -62,4 +62,6 @@ class Owner
       pet.each { |animal| animal.mood = "nervous"}}
     @pets.clear
   end
+  
+  
 end
